@@ -1,6 +1,6 @@
 # tc3-as05
 Atividade de Tópicos em Computação III - AS05: Implementação de Assistente Conversacional Baseado em LLM.
-Código feito no google colab.
+O código está no arquivo 'tc3_as05.ipynb' feito no google colab.
 
 ## Execução
 Para execução do código é necessário:
